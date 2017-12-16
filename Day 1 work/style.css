@@ -1,0 +1,20 @@
+.button{
+
+    border: none;
+    padding: 15px 32px;  
+}
+.Blue{
+    background-color: blue;
+    color: white
+}
+.Red{
+    background-color: red;
+    color: white
+}
+
+
+div.absolute {
+    position: absolute;
+    top: 100%;
+    left: 100%;
+}
